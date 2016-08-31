@@ -1,0 +1,25 @@
+.green{
+    background-color: #CCFFCC;
+   }
+   
+.start {
+    background-color: white;
+    color: black;
+    text-align:center;
+    padding:5px;
+    font-size:30px;
+    }
+
+.start a {
+    margin-right: 20px;
+}
+
+
+#header{
+    text-align:center;
+}
+
+
+h2{
+    text-align: center;
+}
